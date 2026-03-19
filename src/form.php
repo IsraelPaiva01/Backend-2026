@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Form</title>
+</head>
+<body>
+    <h1>Form - 19/03/2026</h1>    
+    <form method="post" action= "recebe.php">
+         Login <input type="text" id="Login" name="Login"><br>
+         Senha <input type="password" id="Senha" name="Senha"><br>
+         <input type="submit" value="Validar">
+</body>
+</html>
